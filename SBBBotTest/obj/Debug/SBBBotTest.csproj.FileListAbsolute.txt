@@ -1,0 +1,8 @@
+C:\MMa\Sourcecodes\SBBBotTest\SBBBotTest\bin\Debug\SBBBotTest.exe.config
+C:\MMa\Sourcecodes\SBBBotTest\SBBBotTest\bin\Debug\SBBBotTest.exe
+C:\MMa\Sourcecodes\SBBBotTest\SBBBotTest\bin\Debug\SBBBotTest.pdb
+C:\MMa\Sourcecodes\SBBBotTest\SBBBotTest\bin\Debug\Newtonsoft.Json.dll
+C:\MMa\Sourcecodes\SBBBotTest\SBBBotTest\bin\Debug\Newtonsoft.Json.xml
+C:\MMa\Sourcecodes\SBBBotTest\SBBBotTest\obj\Debug\SBBBotTest.csprojResolveAssemblyReference.cache
+C:\MMa\Sourcecodes\SBBBotTest\SBBBotTest\obj\Debug\SBBBotTest.exe
+C:\MMa\Sourcecodes\SBBBotTest\SBBBotTest\obj\Debug\SBBBotTest.pdb
